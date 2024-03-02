@@ -1,4 +1,4 @@
-The aim was to develop a heuristic for a bot that can play the game capture the boxes. 
+The aim was to develop a heuristic for a bot that can play the game Dots and Boxes. 
 Details on how to run the game are given in the .pdf file.
 The heuristic function we developed takes the parameters number of vertices (N) and list of captured edges(edges).
 Then it creates a 2 dimensional array and marks all the played edges.
